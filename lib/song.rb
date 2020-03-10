@@ -26,5 +26,6 @@ class Song
   end
   
   def self.genre_count 
+    gre
     count += 1
 end
